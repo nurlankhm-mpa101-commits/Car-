@@ -47,7 +47,8 @@
               "RelativeToolTip": "Car-\\Entities\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:10:10.438Z"
+              "WhenOpened": "2025-11-06T08:10:10.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "Car-\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:09:21.289Z"
+              "WhenOpened": "2025-11-06T08:09:21.289Z",
+              "EditorCaption": ""
             }
           ]
         }
