@@ -1,0 +1,15 @@
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.AssemblyInfoInputs.cache
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.AssemblyInfo.cs
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.sourcelink.json
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\bin\Debug\net8.0\Car-.exe
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\bin\Debug\net8.0\Car-.deps.json
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\bin\Debug\net8.0\Car-.runtimeconfig.json
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\bin\Debug\net8.0\Car-.dll
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\bin\Debug\net8.0\Car-.pdb
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.dll
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\refint\Car-.dll
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.pdb
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\Car-.genruntimeconfig.cache
+C:\Users\student\Desktop\Car Task\Car-\Car-\Car-\Car-\obj\Debug\net8.0\ref\Car-.dll

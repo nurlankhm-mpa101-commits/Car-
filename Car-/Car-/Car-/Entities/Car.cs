@@ -10,14 +10,14 @@
         public bool ForRent { get; set; }
         public List<Car> Cars { get; set; }
 
-        public Car(string brand, string model, int year, bool forRent, int cost)
+        public Car(int id, string brand, string model, int year, bool forRent, int cost)
         {
             Brand = brand;
             Model = model;
             Year = year;
             ForRent = forRent;
             Cost = cost;
-            Id++;
+            Id = id;
         }
 
     }
