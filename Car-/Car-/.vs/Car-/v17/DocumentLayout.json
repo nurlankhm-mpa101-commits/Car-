@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\student\\Desktop\\Car Task\\Car-\\Car-\\Car-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|c:\\users\\student\\desktop\\car task\\car-\\car-\\car-\\car-\\entities\\carmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|solutionrelative:car-\\entities\\carmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|c:\\users\\student\\desktop\\car task\\car-\\car-\\car-\\car-\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|solutionrelative:car-\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|c:\\users\\student\\desktop\\car task\\car-\\car-\\car-\\car-\\carmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|solutionrelative:car-\\carmanage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|c:\\users\\student\\desktop\\car task\\car-\\car-\\car-\\car-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|solutionrelative:car-\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|c:\\users\\student\\desktop\\car task\\car-\\car-\\car-\\car-\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{023AC384-027B-4B20-AF3A-6A17D0DF85CE}|Car-\\Car-.csproj|solutionrelative:car-\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,18 +28,18 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CarManage.cs",
-              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Car Task\\Car-\\Car-\\Car-\\Car-\\Entities\\CarManage.cs",
-              "RelativeDocumentMoniker": "Car-\\Entities\\CarManage.cs",
-              "ToolTip": "C:\\Users\\student\\Desktop\\Car Task\\Car-\\Car-\\Car-\\Car-\\Entities\\CarManage.cs",
-              "RelativeToolTip": "Car-\\Entities\\CarManage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\student\\Desktop\\Car Task\\Car-\\Car-\\Car-\\Car-\\CarManage.cs",
+              "RelativeDocumentMoniker": "Car-\\CarManage.cs",
+              "ToolTip": "C:\\Users\\student\\Desktop\\Car Task\\Car-\\Car-\\Car-\\Car-\\CarManage.cs",
+              "RelativeToolTip": "Car-\\CarManage.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAcwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-06T08:10:48.423Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Car Task\\Car-\\Car-\\Car-\\Car-\\Entities\\Car.cs",
               "RelativeDocumentMoniker": "Car-\\Entities\\Car.cs",
@@ -47,11 +47,12 @@
               "RelativeToolTip": "Car-\\Entities\\Car.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:10:10.438Z"
+              "WhenOpened": "2025-11-06T08:10:10.438Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\student\\Desktop\\Car Task\\Car-\\Car-\\Car-\\Car-\\Program.cs",
               "RelativeDocumentMoniker": "Car-\\Program.cs",
@@ -59,7 +60,8 @@
               "RelativeToolTip": "Car-\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-06T08:09:21.289Z"
+              "WhenOpened": "2025-11-06T08:09:21.289Z",
+              "EditorCaption": ""
             }
           ]
         }
