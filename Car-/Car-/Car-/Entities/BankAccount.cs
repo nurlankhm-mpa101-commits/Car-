@@ -2,29 +2,30 @@
 {
     public class BankAccount
     {
+        public string Name { get; set; }
+        public int Balance;
 
-        public decimal Balance;
 
-
-        public BankAccount(decimal balance)
+        public BankAccount(string name, int balance)
         {
             Balance = balance;
-
+            Name = name;
         }
 
-        public void Deposit(decimal amount)
+        public void Deposit(int amount)
         {
             Balance += amount;
+            Console.WriteLine($"Balansiniz artirildi. Balance: {Balance}");
         }
 
-        public bool Withdraw(decimal amount)
+        public bool Withdraw(int amount)
         {
             if (Balance < amount)
             {
-                Console.WriteLine("Balansinizda kifayet mebleg yoxdur!");
                 return false;
             }
             Balance -= amount;
+
             return true;
         }
 
